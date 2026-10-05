@@ -65,11 +65,11 @@
         <circle cx="1040" cy="250" r="94" fill="#ffe2a8" opacity=".66"/>
         <path d="M820 454c70-100 145-88 202-10 36 49 65 56 98 23v149H820z" fill="#7b9a89"/>
         <path d="M820 515c80-55 151-21 208 17 31 21 61 17 92-10v94H820z" fill="#627e78"/>
-        <use href="#subject" x="812" y="237"/>
+        <use href="#subject" x="733" y="216"/>
       </g>
       <g clip-path="url(#cutClip)">
         <rect x="1142" y="176" width="300" height="440" fill="url(#check)"/>
-        <use href="#subject" x="1134" y="237"/>
+        <use href="#subject" x="1055" y="216"/>
       </g>
       <rect x="820" y="176" width="300" height="440" rx="24" fill="none" stroke="#ffffff" stroke-opacity=".55" stroke-width="2"/>
       <rect x="1142" y="176" width="300" height="440" rx="24" fill="none" stroke="#ffffff" stroke-opacity=".55" stroke-width="2"/>
