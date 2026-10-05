@@ -1,5 +1,7 @@
 # Tools_remove_bg
 
+![Tools_remove_bg](docs/imagenes/portada.svg)
+
 > Repositorio creado; la descripción funcional del proyecto está pendiente de confirmar.
 
 ![Estado: inicial](https://img.shields.io/badge/estado-inicial-blue)
